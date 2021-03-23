@@ -11,6 +11,10 @@
 This application uses Node.js and Express to save notes for the user. This application takes the values of the note Title and text and stores it in the database. The user can add and delete notes as they wish. 
 
 
+![Screenshot of Note Taker page](./Assets/noteTaker.png)
+
+![Screenshot of Note Taker page](./images/save.png)
+
 ## Installation
 
 To get this application to work, you will need to install Node.js and its dependencies in the integrated terminal. First you will need to install package.json by entering npm init -y in the integrated terminal. Then install its dependencies by entering npm i. Once installed, run the server by typing in npm run start. 
