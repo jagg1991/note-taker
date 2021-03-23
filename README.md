@@ -13,7 +13,7 @@ This application uses Node.js and Express to save notes for the user. This appli
 
 ![Screenshot of Note Taker page](./Assets/noteTaker.png)
 
-![Screenshot of Note Taker page](./images/save.png)
+![Screenshot of Note Taker page](./Assets/save.png)
 
 ## Installation
 
