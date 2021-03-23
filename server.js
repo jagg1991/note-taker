@@ -10,13 +10,15 @@ const PORT = process.env.PORT || 8080;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// sets public as the root folder when coming from front end. 
+//public is the route file
 app.use(express.static('public'));
 
 //api routes
-require('.routes/htmlRoutes')(app);
 
-require('/routes/api-routes')(app)
+require('./routes/api-routes')(app);
+require('./routes/htmlRoutes')(app);
+
+
 
 
 //LISTENER 

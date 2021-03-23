@@ -2,6 +2,7 @@ const path = require('path');
 
 // ROUTING
 
+// a simple funtion to get html files. 
 module.exports = (app) => {
     // => HTML GET Requests
     // Below code handles when users "visit" a page.
