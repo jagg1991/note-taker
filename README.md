@@ -33,7 +33,7 @@ We all have a busy schedule in this ever changing society, and it may be hard to
 - HTML
 - CSS
 
-- Contact me!
+## Contact me!
 
 If you have any questions, concerns, or feedback please contact me at the sources below. Thank you!
 
